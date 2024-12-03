@@ -1,0 +1,1 @@
+# go-ca-template-generator
